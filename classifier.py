@@ -201,7 +201,7 @@ def test(training_filename, test_filename):
         
 
 #
-##  Przykłady użycia
+#  Przykłady użycia
 #  test('athletesTrainingSet.txt', 'athletesTestSet.txt')
 #  test("irisTrainingSet.data", "irisTestSet.data")
 #  test("mpgTrainingSet.txt", "mpgTestSet.txt")
