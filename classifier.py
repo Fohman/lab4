@@ -200,7 +200,7 @@ def test(training_filename, test_filename):
     print("%4.2f%% correct" % (numCorrect * 100/ len(lines)))
         
 
-##
+#
 ##  Przykłady użycia
 #  test('athletesTrainingSet.txt', 'athletesTestSet.txt')
 #  test("irisTrainingSet.data", "irisTestSet.data")
